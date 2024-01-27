@@ -1,0 +1,14 @@
+.btn-primary, .form-control{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 70px;
+}
+
+h1, p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.form-label{
+    margin-left: 10px;
+}
